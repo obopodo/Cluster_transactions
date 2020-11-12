@@ -1,2 +1,2 @@
 # Cluster_transactions
-Test task from Clain
+Calculations of cash flow between two clusters of bitcoin addresses.
